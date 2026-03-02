@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Ln-D07-full-CI-CD-pipelines-for-microservice-based-dynamic-app",
+			"path": "../../.vscode/Ln-D07-full-CI-CD-pipelines-for-microservice-based-dynamic-app"
+		}
+	],
+	"settings": {}
+}
